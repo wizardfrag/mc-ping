@@ -1,0 +1,14 @@
+{
+  "name": "mc-ping",
+  "version": "0.0.1",
+  "description": "Pings a Minecraft server for its MOTD and other data",
+  "main": "index",
+  "repository": "",
+  "keywords": [
+    "minecraft",
+    "ping",
+    "utilities"
+  ],
+  "author": "David White <me@wizardfrag.co.uk>",
+  "license": "BSD"
+}
