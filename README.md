@@ -5,7 +5,7 @@ This is a super-simple library that provides access to the [Server-list-ping](ht
 You can use it as follows
 
     mcping = require('mc-ping');
-    mcping('yourserver.com', 25565, function(err, res) {
+    mcping('example.com', 25565, function(err, res) {
     	if (err) {
     		// Some kind of error
     		console.error(err);
@@ -13,7 +13,7 @@ You can use it as follows
     		// Success!
     		console.log(res);
     	}
-	});
+	}, 3000);
 
 In this instance, `res` will be a javascript object similar to the following:
 
