@@ -1,5 +1,9 @@
 # mc-ping
 
+![license](http://img.shields.io/npm/l/mc-ping.png?style=flat) 
+![stable](http://img.shields.io/npm/v/mc-ping.png?style=flat)
+[![package](http://img.shields.io/npm/mc-ping.png?style=flat)](https://www.npmjs.org/package/mc-ping)
+
 This is a super-simple library that provides access to the [Server-list-ping](http://wiki.vg/Server_List_Ping) feature of Minecraft servers.
 
 You can use it as follows
