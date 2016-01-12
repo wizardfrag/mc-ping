@@ -4,6 +4,12 @@
 ![stable](http://img.shields.io/npm/v/mc-ping.png?style=flat)
 [![package](http://img.shields.io/npm/mc-ping.png?style=flat)](https://www.npmjs.org/package/mc-ping)
 
+# Deprecated
+
+This package is deprecated in favour of [mc-ping-updated](https://www.npmjs.com/package/mc-ping-updated) ([GitHub](https://github.com/Cryptkeeper/mc-ping-updated)). Please use it instead of this package.
+
+# Original Readme
+
 This is a super-simple library that provides access to the [Server-list-ping](http://wiki.vg/Server_List_Ping) feature of Minecraft servers.
 
 You can use it as follows
